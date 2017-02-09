@@ -1,0 +1,13 @@
+// C++ Example
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  cout << "Welcome to Github!" << endl;
+  int in = 0;
+  cout << "What is your name? ";
+  cin >> in;
+  cout << "OK!" << endl;
+  cout << "Good luck " << in << endl;
+}
